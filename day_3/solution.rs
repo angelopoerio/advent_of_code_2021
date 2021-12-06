@@ -7,7 +7,7 @@ use std::vec::Vec;
 fn main() {
     let mut bits = HashMap::new();
 
-    for i in 0..13 {
+    for i in 0..12 {
         bits.insert(i, vec![0, 0]);
     }
 
