@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 def solve(positions):
     min_position = min(positions)
     max_position = max(positions)
